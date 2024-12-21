@@ -19,8 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://leetcode.com/u/malatheef_443/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="slnarasimha" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/narasimhas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="narasimhas" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/narasimha-png" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="narasimha-png" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/malatheef_443/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="latheef-png" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
